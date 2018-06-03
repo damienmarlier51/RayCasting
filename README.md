@@ -48,7 +48,7 @@ column_2 = "y"
 within_polygon_df = rayCasting.run_selector(df, column_1, column_2)[0]
 ```
 
-When running the previous example, on the matplotlib figure, press right click to add a point to the polygon. When more than 3 points drawn, press left click to close the polygon. Below is the expected output.
+When running the previous example, on the matplotlib figure, right click to add a point to the polygon. When more than 3 points are drawn, left click to close the polygon. Below is the expected output:
 
 <p float="center">
 	<img src="https://github.com/damienmarlier51/RayCasting/blob/master/pictures/Figure_1.png" width="33%"/>
