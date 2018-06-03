@@ -51,9 +51,9 @@ The following example lets you build your own polygon:
 When running the previous example, on the matplotlib figure, press right click to add a point to the polygon. When more than 3 points drawn, press left click to close the polygon. Below is the expected output.
 
 <p float="center">
-	<img src="https://github.com/damienmarlier51/RayCasting/blob/master/output_examples/Figure_1.png" width="33%"/>
-	<img src="https://github.com/damienmarlier51/RayCasting/blob/master/output_examples/Figure_2.png" width="33%"/>
-	<img src="https://github.com/damienmarlier51/RayCasting/blob/master/output_examples/Figure_3.png" width="33%"/>
+	<img src="https://github.com/damienmarlier51/RayCasting/blob/master/pictures/Figure_1.png" width="33%"/>
+	<img src="https://github.com/damienmarlier51/RayCasting/blob/master/pictures/Figure_2.png" width="33%"/>
+	<img src="https://github.com/damienmarlier51/RayCasting/blob/master/pictures/Figure_3.png" width="33%"/>
 </p>
 
 
