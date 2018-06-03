@@ -36,5 +36,5 @@ def dummy_example_2():
 	plt.show()
 
 if __name__ == "__main__":
-	dummy_example_2()
+	#dummy_example_2()
 	dummy_example_1()
